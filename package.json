@@ -5,7 +5,8 @@
     "dev": "next dev",
     "prettier": "prettier --write --ignore-unknown .",
     "prettier:check": "prettier --check --ignore-unknown .",
-    "start": "next start"
+    "start": "next start",
+    "turbo": "next dev --turbo"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
